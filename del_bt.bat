@@ -1,1 +1,0 @@
-del USERNAME%\Downloads\BitTorrent\*.aria2

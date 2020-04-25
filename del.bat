@@ -1,1 +1,0 @@
-del %USERNAME%\Downloads\*.aria2
