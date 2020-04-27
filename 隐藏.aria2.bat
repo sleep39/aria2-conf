@@ -1,1 +1,0 @@
-attrib *.aria2 +h +s

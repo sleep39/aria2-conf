@@ -1,0 +1,1 @@
+attrib D:\downloads\*.aria2 -h -s

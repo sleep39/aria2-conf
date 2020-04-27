@@ -6,3 +6,5 @@
 
 # 增加自动更新tarckers
 [uptrackers.sh](uptrackers.sh)
+
+# 适配WSL，优化目录。
