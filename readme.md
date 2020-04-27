@@ -5,7 +5,7 @@
 放到下载目录运行，不推荐直接删除。
 
 # 增加自动更新tarckers
-[uptrackers.sh](uptrackers.sh)
+[uptrackers.sh](sh/uptrackers.sh)
 
 # 适配WSL，优化目录。
 
