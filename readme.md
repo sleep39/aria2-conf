@@ -8,3 +8,5 @@
 [uptrackers.sh](uptrackers.sh)
 
 # 适配WSL，优化目录。
+
+放置到/etc/aria2目录使用。
