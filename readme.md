@@ -2,7 +2,7 @@
 
 # 增加显示或隐藏.aria2文件。
 
-放到下载目录运行，不推荐直接删除。
+不推荐直接删除.aria2文件，自行设定[显示.aria2.bat](sh/显示.aria2.bat)和[隐藏.aria2.bat](sh/隐藏.aria2.bat)内路径。
 
 # 增加自动更新tarckers
 [uptrackers.sh](sh/uptrackers.sh)
